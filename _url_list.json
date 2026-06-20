@@ -1,0 +1,142 @@
+{
+  "capabilities": [
+    [
+      "index",
+      "https://fivetran.com/docs/hvr6/capabilities"
+    ],
+    [
+      "capabilities",
+      "https://fivetran.com/docs/hvr6/capabilities"
+    ],
+    [
+      "capabilities/625",
+      "https://fivetran.com/docs/hvr6/capabilities/625"
+    ],
+    [
+      "capabilities/635",
+      "https://fivetran.com/docs/hvr6/capabilities/635"
+    ],
+    [
+      "capabilities/630",
+      "https://fivetran.com/docs/hvr6/capabilities/630"
+    ],
+    [
+      "capabilities/620",
+      "https://fivetran.com/docs/hvr6/capabilities/620"
+    ],
+    [
+      "capabilities/610",
+      "https://fivetran.com/docs/hvr6/capabilities/610"
+    ],
+    [
+      "capabilities/615",
+      "https://fivetran.com/docs/hvr6/capabilities/615"
+    ]
+  ],
+  "requirements": [
+    [
+      "index",
+      "https://fivetran.com/docs/hvr6/requirements"
+    ],
+    [
+      "requirements/hub-repository-database-requirements",
+      "https://fivetran.com/docs/hvr6/requirements/hub-repository-database-requirements"
+    ],
+    [
+      "requirements",
+      "https://fivetran.com/docs/hvr6/requirements"
+    ],
+    [
+      "requirements/source-and-target-requirements",
+      "https://fivetran.com/docs/hvr6/requirements/source-and-target-requirements"
+    ]
+  ],
+  "install_upgrade": [
+    [
+      "index",
+      "https://fivetran.com/docs/hvr6/install-upgrade"
+    ]
+  ],
+  "user_interface": [
+    [
+      "index",
+      "https://fivetran.com/docs/hvr6/user-interface"
+    ]
+  ],
+  "cli": [
+    [
+      "index",
+      "https://fivetran.com/docs/hvr6/command-line-interface"
+    ],
+    [
+      "command-line-interface/creating-and-activating-channels-from-cli",
+      "https://fivetran.com/docs/hvr6/command-line-interface/creating-and-activating-channels-from-cli"
+    ],
+    [
+      "command-line-interface/managing-properties-in-cli",
+      "https://fivetran.com/docs/hvr6/command-line-interface/managing-properties-in-cli"
+    ]
+  ],
+  "action_reference": [
+    [
+      "index",
+      "https://fivetran.com/docs/hvr6/action-reference"
+    ]
+  ],
+  "property_reference": [
+    [
+      "index",
+      "https://fivetran.com/docs/hvr6/property-reference"
+    ]
+  ],
+  "advanced_operations": [
+    [
+      "index",
+      "https://fivetran.com/docs/hvr6/advanced-operations"
+    ]
+  ],
+  "internal_objects": [
+    [
+      "index",
+      "https://fivetran.com/docs/hvr6/internal-objects"
+    ]
+  ],
+  "rest_api": [
+    [
+      "index",
+      "https://fivetran.com/docs/hvr6/rest-api"
+    ]
+  ],
+  "faq": [
+    [
+      "index",
+      "https://fivetran.com/docs/hvr6/faq"
+    ],
+    [
+      "faq/errors-warnings-alerts",
+      "https://fivetran.com/docs/hvr6/faq/errors-warnings-alerts"
+    ],
+    [
+      "faq",
+      "https://fivetran.com/docs/hvr6/faq"
+    ],
+    [
+      "faq/how-to",
+      "https://fivetran.com/docs/hvr6/faq/how-to"
+    ],
+    [
+      "faq/troubleshooting",
+      "https://fivetran.com/docs/hvr6/faq/troubleshooting"
+    ],
+    [
+      "faq/expert-notes-best-practices",
+      "https://fivetran.com/docs/hvr6/faq/expert-notes-best-practices"
+    ]
+  ],
+  "release_notes": [
+    [
+      "index",
+      "https://fivetran.com/docs/hvr6/release-notes"
+    ]
+  ]
+}
